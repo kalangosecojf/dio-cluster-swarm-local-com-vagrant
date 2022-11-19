@@ -2,7 +2,7 @@
 # vi: set ft=ruby  :
 
 machines = {
-  "master" => {"memory" => "512", "cpu" => "1", "ip" => "210", "image" => "bento/ubuntu-22.04"},
+  "master" => {"memory" => "512", "cpu" => "1", "ip" => "s210", "image" => "bento/ubuntu-22.04"},
   "node01" => {"memory" => "512", "cpu" => "1", "ip" => "211", "image" => "bento/ubuntu-22.04"},
   "node02" => {"memory" => "512", "cpu" => "1", "ip" => "212", "image" => "bento/ubuntu-22.04"},
   "node03" => {"memory" => "512", "cpu" => "1", "ip" => "213", "image" => "bento/ubuntu-22.04"}
